@@ -3,12 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-<<<<<<< HEAD
-  tags:
-  - Activator
-=======
   tags: []
->>>>>>> master
   layers:
   - Default
   - TransparentFX
@@ -46,9 +41,3 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
-  - name: Arrows
-    uniqueID: 1707378457
-    locked: 0
-=======
->>>>>>> master
